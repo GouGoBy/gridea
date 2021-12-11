@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gougoby.github.io/gridea</id>
+    <id>https://awsl.icu</id>
     <title>狗窝</title>
-    <updated>2021-12-11T14:04:20.169Z</updated>
+    <updated>2021-12-11T14:42:40.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gougoby.github.io/gridea"/>
-    <link rel="self" href="https://gougoby.github.io/gridea/atom.xml"/>
+    <link rel="alternate" href="https://awsl.icu"/>
+    <link rel="self" href="https://awsl.icu/atom.xml"/>
     <subtitle>&lt;div id=&quot;he-plugin-simple&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 WIDGET = {
@@ -32,13 +32,13 @@ WIDGET = {
 }
 &lt;/script&gt;
 &lt;script src=&quot;https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0&quot;&gt;&lt;/script&gt;</subtitle>
-    <logo>https://gougoby.github.io/gridea/images/avatar.png</logo>
-    <icon>https://gougoby.github.io/gridea/favicon.ico</icon>
+    <logo>https://awsl.icu/images/avatar.png</logo>
+    <icon>https://awsl.icu/favicon.ico</icon>
     <rights>All rights reserved 2021, 狗窝</rights>
     <entry>
         <title type="html"><![CDATA[你的“第一次”]]></title>
-        <id>https://gougoby.github.io/gridea/post/vDmwwZWII/</id>
-        <link href="https://gougoby.github.io/gridea/post/vDmwwZWII/">
+        <id>https://awsl.icu/post/vDmwwZWII/</id>
+        <link href="https://awsl.icu/post/vDmwwZWII/">
         </link>
         <updated>2021-10-31T06:19:35.000Z</updated>
         <content type="html"><![CDATA[<h1 id="序">序</h1>
@@ -50,7 +50,7 @@ WIDGET = {
 当时我看了一眼邮箱，至少有40条反馈评论的信息<br>
 我人都傻了，赶紧去看看<br>
 结果发现，站已经被广告机器人打崩溃了<br>
-<img src="https://gougoby.github.io/gridea/post-images/1635661603023.png" alt="" loading="lazy"><br>
+<img src="https://awsl.icu/post-images/1635661603023.png" alt="" loading="lazy"><br>
 我怎么说呢，服务器还是好的，ip也很正常，就是站点进不去了<br>
 我他吗直接关站， <s>跑路</s><br>
 后来过了一会，机器人停了<br>
@@ -69,8 +69,8 @@ www<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[异地协作×手动同步√]]></title>
-        <id>https://gougoby.github.io/gridea/post/xfnDIM40g/</id>
-        <link href="https://gougoby.github.io/gridea/post/xfnDIM40g/">
+        <id>https://awsl.icu/post/xfnDIM40g/</id>
+        <link href="https://awsl.icu/post/xfnDIM40g/">
         </link>
         <updated>2021-10-26T13:50:06.000Z</updated>
         <content type="html"><![CDATA[<h1 id="序">序</h1>
@@ -96,8 +96,8 @@ www<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[庆祝]]></title>
-        <id>https://gougoby.github.io/gridea/post/nZUtMqow6/</id>
-        <link href="https://gougoby.github.io/gridea/post/nZUtMqow6/">
+        <id>https://awsl.icu/post/nZUtMqow6/</id>
+        <link href="https://awsl.icu/post/nZUtMqow6/">
         </link>
         <updated>2021-10-24T06:30:25.000Z</updated>
         <content type="html"><![CDATA[<p>值得庆贺的是，今天<a href="https://blog.exia.xyz/">悠然</a>发布了G主题的最新开发版：G-dev3.0<br>
@@ -111,8 +111,8 @@ prepareing~</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[不错的尝试]]></title>
-        <id>https://gougoby.github.io/gridea/post/KEmeKshfH/</id>
-        <link href="https://gougoby.github.io/gridea/post/KEmeKshfH/">
+        <id>https://awsl.icu/post/KEmeKshfH/</id>
+        <link href="https://awsl.icu/post/KEmeKshfH/">
         </link>
         <updated>2021-10-23T14:00:31.000Z</updated>
         <content type="html"><![CDATA[<h1 id="大胆的想法">大胆的想法</h1>
@@ -143,8 +143,8 @@ prepareing~</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[one]]></title>
-        <id>https://gougoby.github.io/gridea/post/di-yi-pian-wen-zhang/</id>
-        <link href="https://gougoby.github.io/gridea/post/di-yi-pian-wen-zhang/">
+        <id>https://awsl.icu/post/di-yi-pian-wen-zhang/</id>
+        <link href="https://awsl.icu/post/di-yi-pian-wen-zhang/">
         </link>
         <updated>2021-10-21T14:05:05.000Z</updated>
         <content type="html"><![CDATA[<p>哈喽哇，这里是狗狗<br>
@@ -155,8 +155,8 @@ prepareing~</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gougoby.github.io/gridea/post/hello-gridea/</id>
-        <link href="https://gougoby.github.io/gridea/post/hello-gridea/">
+        <id>https://awsl.icu/post/hello-gridea/</id>
+        <link href="https://awsl.icu/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
