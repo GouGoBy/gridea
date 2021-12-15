@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://awsl.icu</id>
     <title>狗窝</title>
-    <updated>2021-12-14T13:38:13.262Z</updated>
+    <updated>2021-12-15T14:11:57.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://awsl.icu"/>
     <link rel="self" href="https://awsl.icu/atom.xml"/>
@@ -113,18 +113,6 @@ prepareing~</p>
 就是本地同步网盘线上可能有点慢，然后Alist的显示延迟<br>
 可能会有很多的BUG<br>
 管他的！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[one]]></title>
-        <id>https://awsl.icu/post/di-yi-pian-wen-zhang/</id>
-        <link href="https://awsl.icu/post/di-yi-pian-wen-zhang/">
-        </link>
-        <updated>2021-10-21T14:05:05.000Z</updated>
-        <content type="html"><![CDATA[<p>哈喽哇，这里是狗狗<br>
-这是狗狗在新博客写的第一篇文章，以后会从老博客不断迁移过来滴<br>
-敬请期待<br>
-老博客：https://blog.notgou.com</p>
 ]]></content>
     </entry>
     <entry>
